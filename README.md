@@ -1,6 +1,8 @@
 Мой github
 ===
 
+![nickname](https://mynickname.com/forum4t0/Slavasil.gif)
+
 Да, он пустой. На самом деле я чуть больше предпочитаю [Gitea](https://gitea.slavasil.ru/) и жёсткий диск (self-hosted же всё-таки).
 
 Когда-нибудь тут появится что-то интересное, а уже сейчас вы можете зайти на крутейший [сайт](https://www.youtube.com/watch?v=xvFZjo5PgG0). Ой, не этот... вот настоящий [сайт](https://xurl.pw/sl).
